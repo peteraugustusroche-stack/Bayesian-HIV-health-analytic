@@ -34,7 +34,7 @@ DATA_DIR = Path(__file__).parent / "data"
 #: Where the release assets live. Override with HIV_APP_DATA_URL, which may be
 #: any prefix that ``<prefix>/occupancy_<year>.npz`` resolves under -- a GitHub
 #: Release download URL, an S3 bucket, or a plain static host.
-DEFAULT_BASE_URL = "https://github.com/OWNER/REPO/releases/download/v1.0"
+DEFAULT_BASE_URL = "https://github.com/peteraugustusroche-stack/Bayesian-HIV-health-analytic/releases/download/v1.0"
 
 #: Expected digests, so a partial download fails loudly rather than silently.
 #: Regenerate with `sha256sum` after any re-export.
