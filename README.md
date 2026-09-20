@@ -128,4 +128,4 @@ whose provenance is unresolved.
 
 ## Licence
 
-Not yet chosen — add a `LICENSE` file before making this repository public.
+MIT licence, data used is covered by its own respective licence which may attract restrictions.
