@@ -9,6 +9,7 @@ model/    the Bayesian-calibrated Markov cohort model, its calibration and
           analysis scripts, and the scripts that generate every figure and
           table in the report
 app/      a self-contained deployable copy of the interactive application
+          accessible through: https://01a0be68-efe1-30dd-96fe-1a9f95f21343.share.connect.posit.cloud/
 ```
 
 ## model/
